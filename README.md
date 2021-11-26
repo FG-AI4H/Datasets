@@ -10,5 +10,6 @@ Overview of health datasets by topic area.
 ## Ophthalmology
 * [Diabetic Retinopathy](./DiabeticRetinopathy.md)
 * [Glaucoma](./Glaucoma.md)
-* [Age-Related Macular Degeneration (AMD)](./Age-RelatedMacularDegeneration.md)
+* [Age-Related Macular Degeneration (AMD)](./Age-RelatedMacularDegeneration.md
+* [Pathological Myophia (PM)](./PathologicalMyophia.md)
 
