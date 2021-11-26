@@ -2,12 +2,12 @@
 Overview of health datasets by topic area.
 
 ## Psychiatry
-[Psychiatry](./Psychiatry.md)
+* [Psychiatry](./Psychiatry.md)
 
 ## Malaria
-[Malaria](./Malaria.md)
+* [Malaria](./Malaria.md)
 
 ## Ophthalmology
-[Diabetic Retinopathy](./DiabeticRetinopathy.md)
-[Glaucoma](./Glaucoma.md)
+* [Diabetic Retinopathy](./DiabeticRetinopathy.md)
+* [Glaucoma](./Glaucoma.md)
 
