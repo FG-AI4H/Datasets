@@ -1,5 +1,5 @@
 # Datasets
-Overview of health datasets by topic area
+Overview of health datasets by topic area.
 
 ## Psychiatry
 [Psychiatry](./Psychiatry.md)
@@ -9,4 +9,5 @@ Overview of health datasets by topic area
 
 ## Ophthalmology
 [Diabetic Retinopathy](./DiabeticRetinopathy.md)
+[Glaucoma](./Glaucoma.md)
 
